@@ -22,6 +22,19 @@ defmodule VenueScraper do
     |> Poison.decode!
     |> Map.get("topartists")
     |> Map.get("artist")
-    |> Enum.map(&(Map.get(&1, "name")))
+    |> Enum.map(&(&1["name"]))
+  end
+
+  def swb do
+    # url = "https://www.thesidewinderaustin.com/"
+    # HTTPoison.get!(url).body
+    keys = ~W[title presents description id starts_at doors_at]
+
+    events = File.read!("./lib/20170409_sidewinder.json") |> Poison.decode!
+    for event <- events do
+      Enum.reduce(event, %{}, fn({k, v}, result) ->
+        if Enum.member?(keys, k), do: Map.put(result, k, v), else: result
+      end)
+    end
   end
 end
