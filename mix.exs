@@ -29,8 +29,23 @@ defmodule VenueScraper.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
+      # Fetching webpages
       {:httpoison, "~> 0.10.0"},
-      {:poison, "~> 3.0"}
+
+      # JSON parsing
+      {:poison, "~> 3.0"},
+
+      # Elasticsearch wrapper
+      {:tirexs, "~> 0.8"},
+
+      # UUID generation
+      { :uuid, "~> 1.1" },
+
+      # HTML parsing
+      {:floki, "~> 0.17.0"},
+
+      # date/timezone manipulation
+      {:timex, "~> 3.1"}
     ]
   end
 end

@@ -28,4 +28,6 @@ use Mix.Config
 # here (which is why it is important to import them last).
 #
 #     import_config "#{Mix.env}.exs"
+
+# Loads Last.fm API key
 config :venue_scraper, lastfm_api_key: System.get_env("LASTFM_API_KEY")

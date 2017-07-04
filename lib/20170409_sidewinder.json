@@ -1,194 +1,1219 @@
 [
-  {
-    "ends_at": null,
-    "id": 29829,
-    "max_price": null,
-    "min_price": null,
-    "performing": [
-      "Lyed",
-      "Grivo",
-      "Out of Body"
-    ],
-    "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1489899081/hvooh0g8bibs1a5o1dch.gif",
-    "presents":"The Romance of Crime & Your Beautiful Bones EP Release",
-    "ticket_status":"atthedoor",
-    "restrictions":"ALL AGES",
-    "starts_at":"2017-04-08",
-    "title":"Funeralbloom",
-    "description":"Funeralbloom\nLyed\nGrivo\n\ndoors9pm\n\nFACEBOOK EVENT: https: //www.facebook.com/events/412483819117949/\n\n$7 over 21, $10 under 21\nall ages welcome",
-    "external_url":null,
-    "doors_at":"21:00",
-    "venue_city":"Austin",
-    "venue_name":"Sidewinder"
+    {
+        "ends_at": null,
+        "id": 31825,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498246474/r7zd0cndtzbl2dsfjeqt.jpg",
+        "presents": "Phil Parker presents",
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-03",
+        "title": "\"All In\" a Stand Up Comedy Showcase",
+        "description": "\"All In\" a Stand Up Comedy Showcase\nFREE \nOVER 21 ONLY\n\ndoors 8pm \n\nshow starts 9pm\n\nPhil Parker hosts 5 comics in his monthly series at Sidewinder's INSIDE stage this Summer!\n\nSOCIAL MEDIA LINKS for Phil: \nhttps://www.facebook.com/phil.parker.75 \nhttps://twitter.com/phil_parker3\n\nFacebook event: https://www.facebook.com/events/100132893949949/\ndo512: http://do512.com/events/2017/7/3/all-in-a-stand-up-comedy-showcase",
+        "external_url": null,
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
     },
-{"ends_at":null,"id":27656,"max_price":1500,"min_price":1500,"performing":["BABYLON"],"poster":"http://res.cloudinary.com/hjbfjdt7p/image/upload/v1488319842/ohrqz3rghbcb8btwj0un.jpg","presents":"Margin
-Walker presents","ticket_status":"onsale","restrictions":"ALL AGES","starts_at":"2017-04-09","title":"Acid Mothers Temple","description":"A
-freak-out group for the21st century was founded in1995 by members of the Acid Mothers Temple soul-collective and led by
-Kawabata Makoto.","external_url":null,"doors_at":"18: 30","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30181,"max_price":null,"min_price":null,"performing":[],"poster":null,"presents":"Acid
-Mothers Temple afterparty","ticket_status":"online","restrictions":"ALL AGES","starts_at":"2017-04-09","title":"ST37","description":"Bands
-on the inside stage directly after Acid Mothers Temple ends out back.\n\nST37 —10.30 PM\nSkullcaster —11: 30 PM\nMore Eaze
-—12: 15 AM","external_url":null,"doors_at":"20: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":29639,"max_price":null,"min_price":null,"performing":["Sundressed","Dozer","Locket","Later
-Days"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1489443704/uljga8ge5dfdda4xoibc.jpg","presents":null,"ticket_status":"atthedoor","restrictions":"ALL
-AGES","starts_at":"2017-04-10","title":"Nominee","description":"Nominee: 10: 20 -10: 50\nSundressed: 9: 35 -10: 05\nDozer: 8: 50 -9: 20\nLocket: 8: 10 -8: 35\nLaterdays: 7: 30 -7: 55\nDoors: 7: 00\n$8 for21+ / $10 for under\nall ages welcome\nFACEBOOK
-EVENT: https: //www.facebook.com/events/205093996636641/","external_url":null,"doors_at":"19:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30626,"max_price":null,"min_price":null,"performing":["Dude
-Elsberry","Superbike","Jicky"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1490927250/qkn2t78kgixjyljyj0mi.jpg","presents":null,"ticket_status":"atthedoor","restrictions":"ALL
-AGES","starts_at":"2017-04-12","title":"Camp Life","description":"doors9pm\n\nCamp Life11: 45-12: 15am\nDude Elsberry11-11: 30pm\nSuperbike10: 15-10: 45pm\nJicky9: 30-10pm\n\n$7 over21, $10 under21\nall ages welcome\n\nFACEBOOK EVENT: https: //www.facebook.com/events/178637009320181/","external_url":null,"doors_at":"21:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30485,"max_price":null,"min_price":null,"performing":["Big
-Spirits","Cruise","Softcore Villain"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1490927757/ubundd65xh8ld8tuh2yf.png","presents":null,"ticket_status":"atthedoor","restrictions":"ALL
-AGES","starts_at":"2017-04-13","title":"Dayeater","description":"doors8pm\nCruise8: 30-9pm\nSoftcore Villain9: 15-9: 45pm\nBig
-Spirits10-10: 30pm\nDayeater10: 45-11: 15pm\n\n$7 over21, $10 under21\nall ages","external_url":null,"doors_at":"20: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":31227,"max_price":null,"min_price":null,"performing":[],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1490920064/ar4tqgtjooykfdndnbgl.jpg","presents":"Record
-Release for","ticket_status":"atthedoor","restrictions":"ALL AGES","starts_at":"2017-04-13","title":"Buttercup","description":"Buttercup
-Record Release with Sounds Del Mar, Slomo Drags, CLIFFFS\n---\nDoors8 \n\nCLIFFFS9pm-9: 40pm\nSlomo Drags10-10: 40\nButtercup11-11: 40\nSounds Del Mar12-12: 40\n\n$8 over21, $10 under21\nall ages welcome","external_url":null,"doors_at":"20: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30192,"max_price":null,"min_price":null,"performing":["Super
-Thief","Bummer","Pinko","Vampyre","Oozer"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1490815816/b1rxpeqwtw3xm5wxegjn.jpg","presents":"12\"
-split release party for Bummer and Pinko","ticket_status":"atthedoor","restrictions":"ALL AGES","starts_at":"2017-04-14","title":"Super
-Thief","description":"doors9pm\n\nOozer9: 30-10pm\nVampyre10: 15-10: 45pm\nPinko11-11: 30pm\nBummer11: 45-12: 15am\nSuper
-Thief12: 30-1am\n\n$8 over21, $10 under21\nall ages welcome\n\nFACEBOOK EVENT: https: //www.facebook.com/events/780225908794892/","external_url":null,"doors_at":"21:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":31449,"max_price":null,"min_price":null,"performing":[],"poster":null,"presents":null,"ticket_status":"online","restrictions":"ALL
-AGES","starts_at":"2017-04-15","title":"Early Internet","description":null,"external_url":null,"doors_at":"21: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":29538,"max_price":null,"min_price":null,"performing":["Greater
-Pyrenees","The Nimbus"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1491347911/fpqce5d1b8fdgos9tv03.jpg","presents":null,"ticket_status":"online","restrictions":"ALL
-AGES","starts_at":"2017-04-16","title":"Greater Pyrenees","description":"Touring through after opening for Modest Mouse,
-Greater Pyrenees brings their haunting indie charm to Austin, TX\n\nw/ guests, The Nimbus. Local dark synth pop trio fresh
-off their SXSW showcase.\n\nDoors @7pm\n\nThe Nimbus @8pm\nGreat - Pyrenees @9pm\n\nTickets: $8/over $10/under","external_url":null,"doors_at":"19: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30152,"max_price":null,"min_price":null,"performing":["Torcher","The
-Bearer"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1490822068/c0sa9dt7adjubbskmjmi.jpg","presents":null,"ticket_status":"atthedoor","restrictions":"ALL
-AGES","starts_at":"2017-04-19","title":"Mothman","description":"doors9pm\n\nThe Bearer10-10: 30pm\nTorcher10: 45-11: 15pm\nMothman11: 30-12am\n\n$7 over21, $10 under \nall ages welcome\n\nFACEBOOK EVENT: https: //www.facebook.com/events/781201955365563/","external_url":null,"doors_at":"21:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":31353,"max_price":null,"min_price":null,"performing":["Private
-Vandals","Party Van"],"poster":null,"presents":null,"ticket_status":"atthedoor","restrictions":"ALL AGES","starts_at":"2017-04-20","title":"Magia
-Negra","description":"Doors8pm\n\nParty Van8: 30-9pm\nPrivate Vandals9: 15-9: 45pm\nMagia Negra10-10: 30pm\n\n$7 over21,
-$10 under21\n\nPrivate Vandals https: //www.facebook.com/privatevandals/\nParty Van https://www.facebook.com/Party-Van-1125194560840096/\nMagia
-Negra https: //www.facebook.com/magianegraband/","external_url":null,"doors_at":"20:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":28613,"max_price":null,"min_price":null,"performing":[],"poster":"http://res.cloudinary.com/hjbfjdt7p/image/upload/v1491609918/s0aikikgcdisffowfw2b.jpg","presents":"Clap
-Your Hands Say Yeah afterparty","ticket_status":"atthedoor","restrictions":"ALL AGES","starts_at":"2017-04-21","title":"The
-Midnight Drive + Un Chein","description":"Un Chein12-12: 30am\nhttps: //unchien.bandcamp.com/\n\nThe Midnight Drive 12:45-1:15am\nhttps://themidnightdriveatx.bandcamp.com/releases\n\n$5
-over21, $8 under21\nall ages welcome\n\nFACEBOOK EVENT: https: //www.facebook.com/events/1241228762599455/","external_url":null,"doors_at":"20:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":24413,"max_price":1800,"min_price":1800,"performing":["Laura
-Gibson"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1481303224/mmrgjcpmrthz1vzen18n.jpg","presents":"Margin
-Walker presents","ticket_status":"onsale","restrictions":"ALL AGES","starts_at":"2017-04-21","title":"Clap Your Hands Say
-Yeah","description":null,"external_url":null,"doors_at":"20: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":29026,"max_price":null,"min_price":null,"performing":["Economy"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1490820499/ddupvypnrdea2gtof7tw.jpg","presents":"FREE
-Pile afterparty: ","ticket_status":"online","restrictions":"ALL AGES","starts_at":"2017-04-22","title":"We'll Go Machete","description":"We'll
-Go Machete12-12: 30am\nEconomy12: 45am\n\nFREE over21, $5 under21\nall ages welcome\n\nFACEBOOK EVENT: https: //www.facebook.com/events/435476130135502/","external_url":null,"doors_at":"20:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":27433,"max_price":1200,"min_price":1200,"performing":["Gnarwahl","Black
-Boxes"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1484689298/e2bc6ugfkfu7dbxvyupe.jpg","presents":"Margin
-Walker presents","ticket_status":"onsale","restrictions":"ALL AGES","starts_at":"2017-04-22","title":"Pile","description":null,"external_url":null,"doors_at":"20: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30050,"max_price":null,"min_price":null,"performing":[],"poster":null,"presents":null,"ticket_status":"online","restrictions":"ALL
-AGES","starts_at":"2017-04-23","title":"Ghostlight Concerts Presents","description":"FACEBOOK EVENT: https: //www.facebook.com/events/1673139072984762/?ti=icl","external_url":null,"doors_at":"17:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30064,"max_price":null,"min_price":null,"performing":["White
-Reaper","No Parents"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1488817823/f4i89qkutotljlkmulpk.jpg","presents":"Margin
-Walker presents","ticket_status":"external_url","restrictions":"ALL AGES","starts_at":"2017-04-25","title":"SWMRS","description":null,"external_url":"https: //www.eventbrite.com/e/swmrs-tickets-32593348583","doors_at":"18:30","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":31434,"max_price":null,"min_price":null,"performing":["Ugly
-Side Up"],"poster":null,"presents":"swmrs aftrprty","ticket_status":"atthedoor","restrictions":"ALL AGES","starts_at":"2017-04-25","title":"Moronic
-Behavior","description":"Moronic Behavior10: 30-11pm\nhttps: //www.facebook.com/MoronicBehavior/\n\nUgly Side Up 11:15-11:45pm\nSoundCloud:
-https: //soundcloud.com/uglysideup\nBandCamp: https://uglysideup.bandcamp.com/\n\nFREE over 21, $5 under 21\nall ages welcome","external_url":null,"doors_at":"22:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":28004,"max_price":null,"min_price":null,"performing":["Fat
-Tony"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1486151145/foa9phgydbjme4qqsxo8.jpg","presents":"Margin
-Walker presents","ticket_status":"external_url","restrictions":"ALL AGES","starts_at":"2017-04-27","title":"The Garden","description":null,"external_url":"https: //www.eventbrite.com/e/the-garden-tickets-31841775608","doors_at":"19:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30289,"max_price":1000,"min_price":1000,"performing":["Dreamcrusher","The
-Real Cost","Dress Code"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1489093284/knnvbdqwpdzknadu2vie.jpg","presents":null,"ticket_status":"onsale","restrictions":"ALL
-AGES","starts_at":"2017-04-27","title":"Show Me the Body","description":"with \nDreamcrusher\nThe Real Cost\n\n-----\n\nThe
-New York City punk band Show Me the Body made up of front man Julian Cashwan Pratt,
-    22, drummer Noah Cohen-Corbett,
-    20, and
-bassist Harlan Steed,
-    21 know something you don't - Do It Yourself. For the last2 years, Show Me the Body have been working
-on the fringes of the NYC music scene cultivating inclusive experiences for the youth and beyond.\nThey released their full-length
-debut, Body War, in summer of 2016. Body War is an abrasive yet compelling project that could only come from a city as wildly
-tumultuous as NYC. Their harshly distorted banjo riffs, mighty baselines, powerful drums, plus manipulated samples of the
-band's own demos, combine for a full immersion experience.","external_url":null,"doors_at":"21: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30520,"max_price":null,"min_price":null,"performing":["Sinai
-Vessels","The Obsessives"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1488994832/hmb67lybopamw3vaidgk.jpg","presents":"Margin
-Walker presents","ticket_status":"external_url","restrictions":"ALL AGES","starts_at":"2017-04-28","title":"Sorority Noise","description":null,"external_url":"https: //www.eventbrite.com/e/sorority-noise-tickets-32662661901","doors_at":"19:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":29714,"max_price":null,"min_price":null,"performing":["Roses","RF
-Shannon","Molybden"],"poster":null,"presents":null,"ticket_status":"atthedoor","restrictions":"ALL AGES","starts_at":"2017-04-28","title":"Swarming
-Branch","description":"doors10pm\nMolybden10: 30-11pm\nRF Shannon11: 15-11: 45pm\nRoses12-12: 30pm\nSwarming Branch12: 45-1: 15am\n$7
-over21, $10 under21\nall ages","external_url":null,"doors_at":"22: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":31444,"max_price":null,"min_price":null,"performing":["Inamorata","Cities
-South","Cheyenne Line"],"poster":null,"presents":null,"ticket_status":"atthedoor","restrictions":"ALL AGES","starts_at":"2017-04-30","title":"Forever
-Starts Today","description":"Doors8pm\n\nCheyenne Line: 9-9: 30\nhttps: //thecheyenneline.bandcamp.com/\n\nCities South: 9:45-10:15\nhttps://citiessouth.bandcamp.com/\n\nTBD: 10: 30-11\n\nInamorata: 11: 15-11: 45\nhttps: //inamorata1.bandcamp.com/\n\nForever Starts Today: 12-12:30\nhttps://foreverstartstoday.bandcamp.com/releases\n\n$8
-over21, $10 under\nAll ages","external_url":null,"doors_at":"20: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":26880,"max_price":1000,"min_price":1000,"performing":["Tamarron","Junkie"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1484713020/gnkbiqh0pehmrheystf1.jpg","presents":"KUTX
-Welcomes","ticket_status":"onsale","restrictions":"ALL AGES","starts_at":"2017-05-03","title":"NE-HI","description":"Emerging
-from underground venues in Chicago's Northwest side, NE-HI made its name on both its live energy and cleverly wrought guitar
-anthems. On its second album Offers (Grand Jury), the band takes those basement-forged instincts and refines them, lets its
-guitars explore new angles, and focuses its songwriting. The result shows there are a wide range of post-punk possibilities
-yet to be explored.\nIt all started at Animal Kingdom, a flash-in-the-pan DIY basement in Chicago's Logan Square. There,
-in the summer of2013, three friends from college, Jason Balla (guitar/vocals), Mikey Wells (guitar/vocals) and James Weir
-(bass) linked up with drummer Alex Otake to score a buddy's film and decided to start bashing around together as NE-HI. NE-HI's
-more ambitious sound and heady arrangements broke away from garage rock's back-to-basic's approach. The band's disparate
-influences--Wire's post-punk, Springsteen's everyman anthems, along with echoes of dreamy atmospheres of Dave Roback's Rain
-Parade and the jangly buzz of Kiwi pop legends The Clean--began burning through. The band attracted the attention of Dave
-Vettraino, who asked NE-HI to record at his Public House Recordings studio for posting on his website. Vettraino would go
-on to record the band's debut album. The Chicago Tribune's Greg Kot gave the debut the #4 spot in his2014 year-end list.","external_url":null,"doors_at":"21: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":29627,"max_price":null,"min_price":null,"performing":["Studded
-Left"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1488471455/bmthp4evfyenlmn729el.jpg","presents":"Margin
-Walker presents","ticket_status":"external_url","restrictions":"ALL AGES","starts_at":"2017-05-04","title":"ADULT.","description":"ADULT.
-are the Detroit duo Nicola Kuperus and Adam Lee Miller. They played their first live show together in Germany in1997 under
-the name Artificial Material. In early ‘98 they released their first12” under the moniker Plasma Co. Later that year, they
-released their first12” under the name ADULT. Currently, they have released six albums and19 EPs or singles on Ghostly
-International, Thrill Jockey and Clone Records, as well as on their own label Ersatz Audio, (which currently has over40
-releases since it was founded in ‘95). They have remixed over20 acts as well, including Tuxedomoon, John Foxx, Death in
-Vegas and Pet Shop Boys (for Moog Music).\n\nKuperus and Miller also make sculpture, paintings, films, photographs, performances,
-videos and installations. They strive to intersect the lines between art and audio and have exhibited their work at institutions
-such as the Austrian Cultural Forum (NY), Mattress Factory (Pittsburgh), Detroit Institute of Arts (Detroit), MOMAS (Saitama,
-Japan), and Centre d’art contemporain de Meymac (FR). They have shown their film The Three Grace(s) triptych at spaces such
-as Anthology Film Archives (NY), Distrital Film Festival (Mexico City), and Grey Area for Art and Technology (SF).","external_url":"https: //www.eventbrite.com/e/adult-tickets-32503580083","doors_at":"21:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":28119,"max_price":600,"min_price":600,"performing":["Roses","daphne"],"poster":"http://res.cloudinary.com/hjbfjdt7p/image/upload/v1485576759/grdj53gjrscoeyb3hhjn.jpg","presents":null,"ticket_status":"onsale","restrictions":"ALL
-AGES","starts_at":"2017-05-05","title":"Summer Salt + The Walters","description":"Summer Salt \nSummer Salt is a surf pop
-trio from Austin, TX. With influences of bossa nova and60's rock, they create the perfect soundtrack for chillaxin' by the
-pool. Their happy vibes will surely appeal to you and your parents. \n\nThe Walters\nThe Walters is a band from Chicago and
-Minor League Baseball Team.\n\ndoors9pm\n\n$6 advance\n$8 over21, $10 under21\nall ages welcome\n\nfacebook event: https: //www.facebook.com/events/988537931290458/","external_url":null,"doors_at":"21:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30081,"max_price":null,"min_price":null,"performing":["stillmosters","Liot","Paperback"],"poster":null,"presents":null,"ticket_status":"atthedoor","restrictions":"ALL
-AGES","starts_at":"2017-05-05","title":"notLando","description":"notLando (Austin, TX)[headline
-    ]\nhttp: //facebook.com/notlandowasnothere\nnotLando.bandcamp.com\n\nStillmonsters
-(Houston, TX)[Third
-    ]\nhttp: //facebook.com/stillmonsters\nhttps://stillmonsters.bandcamp.com/\n\nLiot (Austin, TX) [second]\nhttps://www.facebook.com/liotmusic/\nhttps://liot-artist.bandcamp.com/\n\nPaperback
-(Austin, TX)[opener
-    ]\nhttps: //www.facebook.com/paperbacktx/\nhttps://paperbacktx.bandcamp.com/","external_url":null,"doors_at":"22:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":28351,"max_price":null,"min_price":null,"performing":["Concrete
-Elite","Body Pressure"],"poster":null,"presents":"Acheron presents","ticket_status":"atthedoor","restrictions":"ALL AGES","starts_at":"2017-05-06","title":"Foreseen","description":"FORESEEN\nCONCRETE
-ELITE\nBODY PRESSURE\nTBD\n\n$7 over21, $10 under21\nall ages welx","external_url":null,"doors_at":"21: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30725,"max_price":null,"min_price":null,"performing":[],"poster":null,"presents":"Third
-Strings Productions presents: ","ticket_status":"external_url","restrictions":"ALL AGES","starts_at":"2017-05-08","title":"Daisyhead","description":null,"external_url":"https: //www.ticketfly.com/purchase/event/1462804","doors_at":"20:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30369,"max_price":null,"min_price":null,"performing":[],"poster":"http://res.cloudinary.com/hjbfjdt7p/image/upload/v1488943859/d5zk9jqtrvtlur7hx765.jpg","presents":"Margin
-Walker presents","ticket_status":"external_url","restrictions":"ALL AGES","starts_at":"2017-05-11","title":"Last Podcast
-on the Left","description":"Last Podcast On The Left is a comedy podcast that covers all the horrors our world has to offer
-both imagined and real, from demons and aliens to cults and serial killers. Each week three comedians investigate spooky
-and violent events in history using gallows humor and detailed research and prove that thetrue crime community isnt just
-for \"doctors\" with \"expertise\" in their \"field\". The Last Podcast is guaranteed to satisfy your blood lust and make
-you laugh at things you will probably feel guilty about later.","external_url":"https: //www.eventbrite.com/e/last-podcast-on-the-left-tickets-32644466478?aff=es2","doors_at":"18:30","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30721,"max_price":null,"min_price":null,"performing":[],"poster":"http://res.cloudinary.com/hjbfjdt7p/image/upload/v1489097933/k2aymzvhyod8ab1uzbtv.jpg","presents":"Margin
-Walker presents","ticket_status":"external_url","restrictions":"ALL AGES","starts_at":"2017-05-11","title":"Last Podcast
-on the Left (LATE SHOW)","description":"LATE SHOW\n\nDoors: 9: 30pm\nShow: 10-11: 30pm\n\nLast Podcast On The Left is a comedy
-podcast that covers all the horrors our world has to offer both imagined and real, from demons and aliens to cults and serial
-killers. Each week three comedians investigate spooky and violent events in history using gallows humor and detailed research
-and prove that thetrue crime community isnt just for \"doctors\" with \"expertise\" in their \"field\". The Last Podcast
-is guaranteed to satisfy your blood lust and make you laugh at things you will probably feel guilty about later.","external_url":"https: //www.eventbrite.com/e/last-podcast-on-the-left-late-show-tickets-32644506598","doors_at":"21:30","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":29712,"max_price":null,"min_price":null,"performing":[],"poster":null,"presents":null,"ticket_status":"online","restrictions":"ALL
-AGES","starts_at":"2017-05-11","title":"Union13","description":"with \nKnockin Bones","external_url":null,"doors_at":"22: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":29332,"max_price":null,"min_price":null,"performing":["JNTHN
-STEIN (Team Supreme)"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1487013292/ta7ppbf3oh4zzkggzjz1.jpg","presents":"Margin
-Walker presents","ticket_status":"external_url","restrictions":"ALL AGES","starts_at":"2017-05-12","title":"Kilter","description":null,"external_url":"https: //www.eventbrite.com/e/kilter-tickets-32102524515","doors_at":"20:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":31147,"max_price":null,"min_price":null,"performing":[],"poster":null,"presents":"Day
-event: ","ticket_status":"online","restrictions":"ALL AGES","starts_at":"2017-05-13","title":"Nerd Cave","description":"FREE
-EVENT!\n\nDoors1pm\nArt, market and music!","external_url":null,"doors_at":"13: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30333,"max_price":null,"min_price":null,"performing":[],"poster":null,"presents":null,"ticket_status":"online","restrictions":"ALL
-AGES","starts_at":"2017-05-13","title":"Alex Riddle, Holy Golden, Mountebank","description":"more bands TBA\n---\nhttp: //www.alex-riddle.com/\nhttps://www.holygolden.com/\nhttp://mountebank.band/epk","external_url":null,"doors_at":"20:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":31141,"max_price":null,"min_price":null,"performing":["June
-West","Julian Neel"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1491524014/mbh0k8cieprqwiyfit3g.jpg","presents":null,"ticket_status":"online","restrictions":"ALL
-AGES","starts_at":"2017-05-13","title":"Molly Burch","description":"Doors9pm\n\nMusic10-1am or so\n\n$8 over21, $10 under\nAll
-ages\n\nDO512 LINK: http: //do512.com/events/2017/5/13/molly-burch-w-june-west-julian-neel","external_url":null,"doors_at":"21:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":27116,"max_price":null,"min_price":null,"performing":[],"poster":"http://res.cloudinary.com/hjbfjdt7p/image/upload/v1486754387/jfadadmjekiht4xnkp0v.jpg","presents":"Gorilla
-vs Bear presents","ticket_status":"external_url","restrictions":"ALL AGES","starts_at":"2017-05-19","title":"Hoops","description":"Hoops
-thrive in the in-between. The Indiana quartet craft hyper-melodic songs, built around power-pop chords, deceptively complex
-drum patterns, and rock-anthem sentiments that hide some tellingly dark thoughts. Their full-length debut, Routines, sound
-both warmly familiar and jarringly distinctive. A kernel of ache lies at the heart of each verse and chorus: nothing cynical
-or pessimistic, just bittersweet and honest. Not knowing the right way to do things, they came up with their own way-a solid
-DIY philosophy. \"We had an idea of how we wanted our music to sound, but we didnt always know how to achieve it,\" says
-Drew Auscherman, who plays guitars and keyboards, writes and sings. \"There was always some exploring and figuring things
-out, so it took some time to get to what we wanted to sound like.\"",
-    "external_url": "https://www.eventbrite.com/e/hoops-tickets-32829519978",
-    "doors_at": "21:00",
-    "venue_city": "Austin",
-    "venue_name": "Sidewinder"
-  },
-  {
-    "ends_at": null,
-    "id": 30378,
-    "max_price": null,
-    "min_price": null,
-    "performing": [
-      "girling","A.
-Sinclair"],"poster":null,"presents":"girling EP release party!","ticket_status":"atthedoor","restrictions":"ALL AGES","starts_at":"2017-05-19","title":"Ben
-Millburn","description":"doors9pm\n\nA. SInclair9: 30-10pm\ngirling10: 15-11pm\nBen Millburn11: 15-12am\n\n$8 over21, $10
-under21","external_url":null,"doors_at":"21: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":31533,"max_price":null,"min_price":null,"performing":[],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1490921635/qm3kvsxx6z3hknyqxzii.png","presents":"EP
-release party","ticket_status":"online","restrictions":"ALL AGES","starts_at":"2017-05-21","title":"Saint Noise","description":"https: //soundcloud.com/thesaintnoise\nwww.facebook.com/thesaintnoise\n\n$7
-over21, $10 under21\nall ages","external_url":null,"doors_at":"21: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30409,"max_price":null,"min_price":null,"performing":["Dirty
-Dave","The Butts","Sorted Scoundrels"],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1490498782/jnfyzbv7irmigoy4lowl.png","presents":null,"ticket_status":"atthedoor","restrictions":"ALL
-AGES","starts_at":"2017-05-28","title":"Pan Complex","description":"doors9: 30pm\nSorted Scoundrels10-10: 30pm\nThe Butts10: 45-11: 15pm\nDirty Dave11: 30-12am\nPan Complex12: 15-12: 45pm\n$7 over21, $10 under21\nall ages","external_url":null,"doors_at":"21: 30","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":31824,"max_price":null,"min_price":null,"performing":[],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1491609022/g2oqlatagtbah47ft78s.jpg","presents":"Phil
-Parker presents","ticket_status":"online","restrictions":"ALL AGES","starts_at":"2017-06-05","title":"\"All In\" a Stand
-Up Comedy Showcase","description":"FREE \nOVER21 ONLY\n\ndoors8pm\nshow starts9pm\n\nPhil Parker hosts5 comics in his
-monthly series at Sidewinder's INSIDE stage this Summer!\n\nTWITTER LINK for Phil: https: //twitter.com/phil_parker3","external_url":null,"doors_at":"20:00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":29388,"max_price":null,"min_price":null,"performing":[],"poster":"http://res.cloudinary.com/hjbfjdt7p/image/upload/v1490905223/h0lhdzvbyblfmqvolcjo.jpg","presents":"Margin
-Walker presents","ticket_status":"external_url","restrictions":"ALL AGES","starts_at":"2017-06-12","title":"Free Throw","description":null,"external_url":"https: //www.eventbrite.com/e/free-throw-tickets-33337691934","doors_at":"18:30","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":29551,"max_price":null,"min_price":null,"performing":[],"poster":"http://res.cloudinary.com/hjbfjdt7p/image/upload/v1486578543/v2ngkzu4fmokx9corpb8.jpg","presents":"Margin
-Walker presents","ticket_status":"external_url","restrictions":"ALL AGES","starts_at":"2017-06-14","title":"Merchandise","description":"Merchandise
-have announced details of their new album, A Corpse Wired For Sound, due for release on September23rd, alongside the video
-for a second new track, ‘End Of The Week’. Formed nearly a decade ago, galvanized by Tampa hardcore and inspired by its miscreant
-noise, A Corpse Wired For Sound signals a new chapter for Merchandise.","external_url":"https: //www.eventbrite.com/e/merchandise-tickets-31899118121","doors_at":"18:30","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":30330,"max_price":1200,"min_price":1200,"performing":[],"poster":"http://res.cloudinary.com/hjbfjdt7p/image/upload/v1488942422/tmbw0hd7aob5e4oacumy.jpg","presents":null,"ticket_status":"onsale","restrictions":"ALL
-AGES","starts_at":"2017-06-29","title":"Antichrist","description":"with Expander","external_url":null,"doors_at":"20: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":31769,"max_price":null,"min_price":null,"performing":[],"poster":null,"presents":"Football
-Booking presents","ticket_status":"online","restrictions":"ALL AGES","starts_at":"2017-07-07","title":"Dozer","description":"Dozer11: 30p-12p\nGold Steps10: 45p-11: 15p\n5 Year Plan (Lafayette, LA)10p-10: 30p\nForever Starts Today9: 15p-9: 45p\nTBA8: 30p-9: 00p\ndoors8pm\n\n$8 over21, $10 under21\nall ages welcome","external_url":null,"doors_at":"20: 00","venue_city":"Austin","venue_name":"Sidewinder"},{"ends_at":null,"id":29131,"max_price":null,"min_price":null,"performing":[],"poster":"http: //res.cloudinary.com/hjbfjdt7p/image/upload/v1487787034/sqsaetoug0muqrzcq4k4.jpg","presents":"Margin
-Walker presents","ticket_status":"external_url","restrictions":"ALL AGES","starts_at":"2017-07-22","title":"The Cave Singers","description":"Given
-the rising popularity of meditative, folky indie acts in the early2000s, forming a twangy, rootsy folk trio was probably
-the least surprising move Derek Fudesco could have made. The former bassist and founding member of the successful indie rock
-group Pretty Girls Make Graves picked up an acoustic guitar and formed the Cave Singers following PGMG’s demise in January2007, teaming up with vocalist Pete Quirk and drummer Marty Lund.\nThe Cave Singers released two albums on both Matador and
-Jagjaguwar Records. Following these releases, The Cave Singers began work on their fifth album. Rather than working with
-a record company, they opted to coordinate the project themselves and financed the recording through a crowdfunding campaign.
-The campaign raised116 percent of the group’s goal, and the album, Banshee, was released in February 2016.","external_url":"https: //www.eventbrite.com/e/the-cave-singers-tickets-32274701501","doors_at":"20:00","venue_city":"Austin","venue_name":"Sidewinder"}]
+    {
+        "ends_at": null,
+        "id": 34123,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Fuck Yeah!",
+            "Un Chien",
+            "Taylor Craig Mills"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1497304700/krcpyuaqo6ayztxgg67w.jpg",
+        "presents": "LATE SHOW:",
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-03",
+        "title": "Un Chien + Fuck Yeah!",
+        "description": "doors 10pm\n\nTaylor Craig Mills 11-11:30pm\nUn Chien 11:45-12:15am\nFuck Yeah! 12:30-1am\n\n$7 over 21, $10 under 21\nall ages welcome\n\nFacebook Event: https://www.facebook.com/events/842628125912876",
+        "external_url": null,
+        "doors_at": "22:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 34301,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1497384643/gbm4vd4j9xaiscuuicm6.jpg",
+        "presents": "MATINEE 4 'MERICA",
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-04",
+        "title": "Kinetic Discord + Call the Cops",
+        "description": "doors 6pm\n\nMUSIC 7-10PM\n\ncover: $5 over 21, $10 under 21\nall ages welcome",
+        "external_url": null,
+        "doors_at": "18:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 31428,
+        "max_price": 1000,
+        "min_price": 1000,
+        "performing": [
+            "Weak Flesh"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1494031462/sak5836efcehvt0vx3sz.jpg",
+        "presents": "The Acheron presents:",
+        "ticket_status": "onsale",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-05",
+        "title": "Undergang + Necrot",
+        "description": "with Weak Flesh\n\nFACEBOOK EVENT: https://www.facebook.com/events/684270685112426/",
+        "external_url": null,
+        "doors_at": "19:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32689,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Daemon Electricity",
+            "Exxtentioner"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1494431132/ehzlqcn2l0byyu1yemss.jpg",
+        "presents": "FREE Darkwave party",
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-05",
+        "title": "TAXXESS",
+        "description": "FREE INSIDE PARTY ($10 for minors)\n\nExxtentioner 10-11pm\nDaemon Electricity 11:15-12:15am\nTAXXESS12:30-1:30am\n\nhttps://exxtentioner.bandcamp.com/\nhttp://daemonelectricity.com\nhttps://taxxess.bandcamp.com/album/musick\n\nFACEBOOK EVENT: https://www.facebook.com/events/1659413560753091/",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 31994,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Hidden Indians",
+            "Solid State Dream Suit"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1497307911/yl9zg7mhojkejszvfwek.jpg",
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-06",
+        "title": "Brickwaller",
+        "description": "with \nSolid State Dream Suit\nand \nHIdden Indians\n\nFACEBOOK EVENT: https://www.facebook.com/events/301365103643129/",
+        "external_url": null,
+        "doors_at": "20:30",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32335,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1494564099/qdabpzat41ll9tyonmsc.png",
+        "presents": "",
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-07",
+        "title": "Nick Winter bday",
+        "description": "doors 9pm\nDirty Charley Band, Mothman, Sabbath Crow, Nerve.\n\n$5 over 21, $10 under 21\nall ages\n\nFACEBOOK EVENT: https://www.facebook.com/events/651752761698691/",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32813,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498713963/igy9fm45mqlyv7m5yptm.gif",
+        "presents": "Sidewinder Soccer Club presents:",
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-08",
+        "title": "USA vs Panama (Gold Cup 2017)",
+        "description": "FREE ADMISSION.\nDoors open 3pm, Kickoff at 3:30pm.\n\nThe U.S. Men’s National Team’s Group B opponents in the 2017 CONCACAF Gold Cup were finalized with Nicaragua’s stunning 3-0 win against Haiti to earn a 4-3 aggregate triumph in the second leg of the Gold Cup qualifying playoff Tuesday night.\n\nHaiti collected a 3-1 home victory in the first meeting of the playoff on March 24, placing themselves in prime positon to advance. The second leg remained scoreless until the 82nd minute when Nicaragua’s Juan Barrera converted a penalty kick for his first of three goals in a span of six minutes, twice inspiring a bench-clearing celebration and frenzy amongst the home crowd in La Azul y Blanco’s Gold Cup-clinching victory. \n\nAs announced by CONCACAF on March 7, the U.S. begins tournament play Saturday, July 8 against Panama at Nissan Stadium in Nashville, Tenn. The MNT earned a 1-1 draw away to Panama in the Final Round of World Cup Qualifying last night and boasts a 5-1-3 all-time advantage against Los Canaleros in the Gold Cup. The MNT’s lone Gold Cup Group Stage loss came to Panama in 2011 in a 2-1 defeat.\n\nThe USA then heads to Raymond James Stadium in Tampa, Fla. on Wednesday, July 12 for a matchup with Martinique. The island nation, an overseas department of France that is not recognized as a FIFA member, earned its berth by advancing to the semifinals of the 2017 Caribbean Cup. Brian McBride notched a brace in the MNT’s lone meeting with Martinique at Gillette Stadium in the 2003 CONCACAF Gold Cup.\n\nThe U.S. and Nicaragua will meet for the first time when they round out the Group Stage at FirstEnergy Stadium in Cleveland, Ohio on Saturday, July 18.",
+        "external_url": null,
+        "doors_at": "15:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 30068,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "YEEK",
+            "Crxmbs"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1492626271/u44zvf7hebbxdoh31yzd.jpg",
+        "presents": "Margin Walker presents",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-08",
+        "title": "Sports (Can't Stop Chillin Tour)",
+        "description": null,
+        "external_url": "https://www.eventbrite.com/e/sports-cant-stop-chillin-tour-sidewinder-tickets-33863664131",
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32557,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Vertical Vice",
+            "The Gospel Truth"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1497304734/qsaj8ooehnevvbvtxq17.jpg",
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-08",
+        "title": "Early Stages",
+        "description": "doors 9pm\n\nThe Gospel Truth 10-10:45pm\nVertical Vice 11-11:45pm\nEarly Stages 12-12:45am\n\n$7 over 21, $10 under 21\nall ages welcome",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32263,
+        "max_price": 1000,
+        "min_price": 1000,
+        "performing": [
+            "Ruby Rose Fox",
+            "Reckless Order"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1493247835/rshyukxyyudeqaeosdzz.jpg",
+        "presents": null,
+        "ticket_status": "onsale",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-09",
+        "title": "Halo Circus",
+        "description": "doors 6pm\nmusic 7-10pm\n\nHalo Circus featuring Allison Iraheta with special guests Ruby Rose Fox and Reckless Order\n\nHalo Circus is a critically-acclaimed trailblazing bilingual alternative rock band, featuring its star singer Allison Iraheta. Crafting “anthems for introverts,” Iraheta digs deep into dark places and transforms this anguish into lush, unforgettable melodies. Halo Circus’ debut earned instant acclaim, with LA Magazine declaring, \"Allison Iraheta has moved beyond reality TV, forming a group that Duran Duran bassist John Taylor called ‘the best live band in the U.S.A.’ Think: dark, anthemic rock with a knack for soaring hooks.\" Ireheta was named Best Female Musician of 2016 by the LA Music Critics.\n\nHalo Circus quickly earned a reputation for their impressive live performances, which led to a series of high profile bookings, including: The Grammys \"Women Who Rock Festival At Sea\" with Heart, Emmylou Harris, and other iconic female singers; a four week Friday night residency at the prestigious Hotel Cafe in Los Angeles; and \"Say It Loud! A Night of Cultural Disruption\" at the legendary Troubadour. The band fully crowdsourced their entire 30-city \"Follow the Rabbit US Summer Tour\", their song “Band-Aid” was named “Song of the Year” by Popdust and their debut album “Bunny” was\nnamed a “Top Album of 2016” by AXS, Popdust and many more music publications.\n\n---\n\nRuby Rose Fox, a vocal powerhouse of soul-­driven, edgy rock ‘n’ roll, whose voice threatens to knock down the walls of any room in which she performs (alone or with her 8-piece band). Ruby Rose Fox was both the Improper Bostonian magazine’s pick for Best Musician of 2015 in the “Boston’s Best” issue, and featured on the cover of its 2015 “ Music” issue. Ruby also took home the “ Best Pop Artist,” “ Best Female Vocalist,” and “Best Songwriter” at the 2015/16 Boston Music Awards, and was named “ Female Performer of the Year,” by the 2016 New England Music Awards. \n\nThe Boston Herald describes Ruby Rose Fox’s music as “ arty, edgy rock ‘n’ roll that lets her be Lou Reed and Nico at the same time… [and seems] to come from another scene, another world.” Her debut album, “Domestic” was be released in 2016 charted to #8 on the Billboard Heatseekers Chart. Ruby received a 2017 Boston Foundation grant to make her sophomore album and will be spending much of the year touring the US.",
+        "external_url": null,
+        "doors_at": "18:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 34317,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Naga Brujo",
+            "Dayeater",
+            "Softcore Villain",
+            "No, I'm the Leader"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498679640/zhmbltclgp4piyute5bh.png",
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-09",
+        "title": "Softcore Villain",
+        "description": "doors 7pm\nNo, I'm the Leader 7:30-8pm\nSoftcore Villain 8:15-8:45pm\nDayeater 9-9:30pm\nNaga Brujo 9:45-10:15pm\n10:30pm hard cutoff\n$7 over 21, $10 under 21\nall ages welcome\n\nfacebook event: https://www.facebook.com/events/729367910579983",
+        "external_url": null,
+        "doors_at": "19:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 33949,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Wild Toast"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1497384038/okl4x0gclqi2khm15eao.jpg",
+        "presents": null,
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-10",
+        "title": "Mussel + Troll 2",
+        "description": "doors  7pm\n\nWild Toast 8-8:30pm\nTroll 2 8:45-9:30pm\nMussel 9:45-10:30pm\n\nhard curfew  10:30pm\n\n$7 over 21,  $10 under 21\nall  ages welcome\n\nFACEBOOK EVENT: https://www.facebook.com/events/136937093538331/\n---\nWEBSITE: www.troll2music.com\nYoutube: https://youtu.be/2Lv3S8B7Ma0",
+        "external_url": null,
+        "doors_at": "19:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32551,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Bahamacide",
+            "Rickshaw Billies Burger Patrol",
+            "Spring.Fall.Sea",
+            "Zottos"
+        ],
+        "poster": null,
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-10",
+        "title": "Bahamacide",
+        "description": "doors  8pm\n\nZottos 8:30-9pm\nSpring.Fall.Sea 9:15-9:45pm\nRickshaw Billie's Burger Patrol 10-10:30pm\nBahamacide 10:45-11:15pm\n\n$8 over 21, $10 under 21\nall ages\n\nfacebook event: https://www.facebook.com/events/491679507841021",
+        "external_url": null,
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 31266,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Capitalist Kids",
+            "The Putz",
+            "Fur Coats",
+            "The Red Heroes"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1493201775/qaqmxyewbybi046nxoc9.jpg",
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-11",
+        "title": "The Putz + Capitalist Kids",
+        "description": "doors 9pm\n\nThe Red Heroes 9:30-10pm\nFur Coats 10:15-10:45pm\nThe Putz 11-11:30pm\nThe Capitalist Kids 11:45-12:15pm\n\n$7 over 21, $10 under 21\nall ages",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 31676,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Auntie"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1493923819/eq2xccuidn08ifuyquxv.jpg",
+        "presents": "Margin Walker presents",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-12",
+        "title": "Big Business",
+        "description": "BIG BUSINESS’ 5th studio album COMMAND YOUR WEATHER.  Recorded in Joshua Tree, CA, Command Your Weather sees Big Business return to its original two-man lineup of Jared Warren and Coady Willis.  It’s a haunting dream about the struggle for dominance of will over the power and unpredictability of nature.  Or it’s just a really great rock record, it depends on how weird you’re willing to get..  But you’ve never had so much fun being crushed in the cogs of the universe’s great machine, that much is for sure!  I mean, there’s no law against having a couple cold beers while we all burn in the fire of time, am I right?!\n \nRecorded by Dave Curran of UNSANE/PIGS/BIG BUSINESS’ LAST RECORD fame.\n \nFounded in 2003 in Seattle, WA., Big Business has spent the last 13 years touring the world and making records.  In 2006 Jared and Coady joined forces with the Melvins and moved to Los Angeles.  Performing as members of the Melvins and staying autonomous as their own band, they have been there ever since.",
+        "external_url": "https://www.eventbrite.com/e/big-business-sidewinder-tickets-34334718066",
+        "doors_at": "18:30",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32814,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498714735/pgf3vdpuywck23wdvvi5.gif",
+        "presents": "Sidewinder Soccer Club presents:",
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-12",
+        "title": "USA vs Martinique (Gold Cup 2017)",
+        "description": "FREE ADMISSION\nDoors open at 7pm\nKickoff at 8pm\n\nThe U.S. Men’s National Team’s Group B opponents in the 2017 CONCACAF Gold Cup were finalized with Nicaragua’s stunning 3-0 win against Haiti to earn a 4-3 aggregate triumph in the second leg of the Gold Cup qualifying playoff Tuesday night.\n\nHaiti collected a 3-1 home victory in the first meeting of the playoff on March 24, placing themselves in prime positon to advance. The second leg remained scoreless until the 82nd minute when Nicaragua’s Juan Barrera converted a penalty kick for his first of three goals in a span of six minutes, twice inspiring a bench-clearing celebration and frenzy amongst the home crowd in La Azul y Blanco’s Gold Cup-clinching victory. \n\nAs announced by CONCACAF on March 7, the U.S. begins tournament play Saturday, July 8 against Panama at Nissan Stadium in Nashville, Tenn. The MNT earned a 1-1 draw away to Panama in the Final Round of World Cup Qualifying last night and boasts a 5-1-3 all-time advantage against Los Canaleros in the Gold Cup. The MNT’s lone Gold Cup Group Stage loss came to Panama in 2011 in a 2-1 defeat.\n\nThe USA then heads to Raymond James Stadium in Tampa, Fla. on Wednesday, July 12 for a matchup with Martinique. The island nation, an overseas department of France that is not recognized as a FIFA member, earned its berth by advancing to the semifinals of the 2017 Caribbean Cup. Brian McBride notched a brace in the MNT’s lone meeting with Martinique at Gillette Stadium in the 2003 CONCACAF Gold Cup.\n\nThe U.S. and Nicaragua will meet for the first time when they round out the Group Stage at FirstEnergy Stadium in Cleveland, Ohio on Saturday, July 18.",
+        "external_url": null,
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 33198,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Jonny Craig",
+            "Hearts Like Lions"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1497836246/lahcm3gy7okwhkw3aiah.png",
+        "presents": "Third String Productions presents:",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-13",
+        "title": "Jonny Craig",
+        "description": "Jonny Craig +\nHearts Like Lions\n\nDoors 6:00 PM\nAll Ages\n$15 - $17",
+        "external_url": "https://www.ticketfly.com/purchase/event/1422784",
+        "doors_at": "18:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32106,
+        "max_price": 800,
+        "min_price": 800,
+        "performing": [
+            "Hunter Sharpe",
+            "Kidlat Punch"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1494032422/gbdpw8vjv0md6oihcrv3.jpg",
+        "presents": null,
+        "ticket_status": "onsale",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-13",
+        "title": "Mt. Eddy",
+        "description": "About MT. EDDY\nMT. EDDY (formerly Danger! and Jakob Danger) is an American rock band formed in Oakland, California in 2015. Led by singer/songwriter Jakob Armstrong (guitar, vocals), the group originally began as a trio with brothers Chris Malaspina (drums) and Enzo Malaspina (guitar). Kevin Judd (bass guitar) joined the group in 2016. MT. EDDY draws on a mix of influences ranging from surf punk to indie rock to create their own brand of rock and roll. Jakob Armstrong released a solo EP in 2015 under the name Jakob Danger (Burger Records). The band will release their first album, Chroma (Uncool Records), on June 2nd, 2017.",
+        "external_url": null,
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 33205,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Muchos Backflips",
+            "Things Unsaid",
+            "Adventurer Like You",
+            "Seven Circles"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1497385214/geratjvrvegeztdpvbmp.jpg",
+        "presents": "Free Show for over 21",
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-14",
+        "title": "Hot Summer Nights",
+        "description": "doors 8pm\n\nSeven Circles 9-9:45pm\nAdverturer Like You 10-10:45pm\nThings Unsaid 11-11:45pm\nMuchos Backflips 12-1am\n\nFREE for over 21, $10 for minors\nall ages welcome\n\nFACEBOOK EVENT: https://www.facebook.com/events/1397030553684462\n\nThe Red River Cultural District brings you the first annual Hot Summer Nights! Free and open to the public July 13 – 16 throughout the Red River Cultural District at participating businesses including Barracuda Austin, Beerland, Texas, Cheer Up Charlies, Elysium Austin, Empire Control Room & Garage, Mohawk Austin, The Side Bar, The Sidewinder, Stubb's Austin, Swan Dive and Waller Ballroom. Featuring local food, vintage, arts & crafts vendors and music. Lineup announced soon – stay tuned!",
+        "external_url": null,
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 34304,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Burning Years",
+            "The Bearer",
+            "Gnarwolf",
+            "Purifier",
+            "Killing Spirit"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498679954/frn6q9a1alsmuil9gtje.png",
+        "presents": "FREE show for over 21",
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-14",
+        "title": "Hot Summer Nights",
+        "description": "doors 9pm\n\nKilling Spirit 9:30-10pm\nPurifier 10:15-10:45pm\nGnarwolf 11-11:30pm\nThe Bearer 11:45-12:15pm\nBurning Years 12:30-1am\n\ncurfew 1am\nFREE over 21, $10 under 21\n\n\nThe Red River Cultural District brings you the first annual Hot Summer Nights! Free and open to the public July 13 – 16 throughout the Red River Cultural District at participating businesses including Barracuda Austin, Beerland, Texas, Cheer Up Charlies, Elysium Austin, Empire Control Room & Garage, Mohawk Austin, The Side Bar, The Sidewinder, Stubb's Austin, Swan Dive and Waller Ballroom. Featuring local food, vintage, arts & crafts vendors and music. Lineup announced soon – stay tuned!",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32815,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498714660/rhhtqqgirwybquimwq2p.gif",
+        "presents": "SIdewinder Soccer Club presets:",
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-15",
+        "title": "USA vs Nicaragua (Gold Cup 2017)",
+        "description": "The U.S. Men’s National Team’s Group B opponents in the 2017 CONCACAF Gold Cup were finalized with Nicaragua’s stunning 3-0 win against Haiti to earn a 4-3 aggregate triumph in the second leg of the Gold Cup qualifying playoff Tuesday night.\n\nHaiti collected a 3-1 home victory in the first meeting of the playoff on March 24, placing themselves in prime positon to advance. The second leg remained scoreless until the 82nd minute when Nicaragua’s Juan Barrera converted a penalty kick for his first of three goals in a span of six minutes, twice inspiring a bench-clearing celebration and frenzy amongst the home crowd in La Azul y Blanco’s Gold Cup-clinching victory. \n\nAs announced by CONCACAF on March 7, the U.S. begins tournament play Saturday, July 8 against Panama at Nissan Stadium in Nashville, Tenn. The MNT earned a 1-1 draw away to Panama in the Final Round of World Cup Qualifying last night and boasts a 5-1-3 all-time advantage against Los Canaleros in the Gold Cup. The MNT’s lone Gold Cup Group Stage loss came to Panama in 2011 in a 2-1 defeat.\n\nThe USA then heads to Raymond James Stadium in Tampa, Fla. on Wednesday, July 12 for a matchup with Martinique. The island nation, an overseas department of France that is not recognized as a FIFA member, earned its berth by advancing to the semifinals of the 2017 Caribbean Cup. Brian McBride notched a brace in the MNT’s lone meeting with Martinique at Gillette Stadium in the 2003 CONCACAF Gold Cup.\n\nThe U.S. and Nicaragua will meet for the first time when they round out the Group Stage at FirstEnergy Stadium in Cleveland, Ohio on Saturday, July 18.",
+        "external_url": null,
+        "doors_at": "17:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32395,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "We Were Wolves"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1495038728/ukgzfkbvl1svbsprud1b.jpg",
+        "presents": "FREE SHOW for over 21",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-15",
+        "title": "Hot Summer Nights and Margin Walker Presents: BIG JESUS",
+        "description": "Below each trudging riff and well beyond the dense ashes of the low-end, a grinding melody appears -- the core essence of Big Jesus. The band was formed from a non serious idea of C.J. Ridings and things just kept snowballing after a few songs were hosted online. Line ups shifted and members rotated until Spencer Ussery, Tommy Gonzalez, and Joe Sweat completed the roster that would end up penning a deal with Mascot Label Group. Big Jesus is a balancing act of heavy, pretty, bludgeoning, soothing, aggressive, and droning tones that are put together in a way that is distinctly their own.\n\nall ages welcome\n\nFACEBOOK EVENT: https://www.facebook.com/events/1397030553684462\n\nThe Red River Cultural District brings you the first annual Hot Summer Nights! Free and open to the public July 13 – 16 throughout the Red River Cultural District at participating businesses including Barracuda Austin, Beerland, Texas, Cheer Up Charlies, Elysium Austin, Empire Control Room & Garage, Mohawk Austin, The Side Bar, The Sidewinder, Stubb's Austin, Swan Dive and Waller Ballroom. Featuring local food, vintage, arts & crafts vendors and music. Lineup announced soon – stay tuned!",
+        "external_url": "https://www.eventbrite.com/e/big-jesus-sidewinder-tickets-34696276497",
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32707,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Glassing",
+            "Grivo",
+            "Windows1995",
+            "DJ Troller"
+        ],
+        "poster": null,
+        "presents": "FREE show for over 21",
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-15",
+        "title": "Hot Summer Nights",
+        "description": "doors 9pm\n\nDJ Troller 10-10:30pm\nWIndows1995 10:45-11:15pm\nGrivo 11:30-12am\nGlassing 12:15-12:45am\n\nFREE over 21, $10 under 21\nall ages welcome\n\n\nThe Red River Cultural District brings you the first annual Hot Summer Nights! Free and open to the public July 13 – 16 throughout the Red River Cultural District at participating businesses including Barracuda Austin, Beerland, Texas, Cheer Up Charlies, Elysium Austin, Empire Control Room & Garage, Mohawk Austin, The Side Bar, The Sidewinder, Stubb's Austin, Swan Dive and Waller Ballroom. Featuring local food, vintage, arts & crafts vendors and music. Lineup announced soon – stay tuned!",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 33262,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Ugly Side Up",
+            "Calmer Seas",
+            "Hand-Me-Down Adventure",
+            "The Candor Campaign"
+        ],
+        "poster": null,
+        "presents": "Free show for over 21",
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-16",
+        "title": "Hot Summer Nights",
+        "description": "doors 7pm\n\nThe Candor Campaign  7:45-8:15pm\nCalmer Seas 8:30-9pm\nHand-Me-Down Adverture 9:15-9:45pm\nUgly Side Up 10-10:30pm\n\nFree for over 21, $10 for minors\nall ages welcome\n\nThe Red River Cultural District brings you the first annual Hot Summer Nights! Free and open to the public July 13 – 16 throughout the Red River Cultural District at participating businesses including Barracuda Austin, Beerland, Texas, Cheer Up Charlies, Elysium Austin, Empire Control Room & Garage, Mohawk Austin, The Side Bar, The Sidewinder, Stubb's Austin, Swan Dive and Waller Ballroom. Featuring local food, vintage, arts & crafts vendors and music. Lineup announced soon – stay tuned!",
+        "external_url": null,
+        "doors_at": "19:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 33203,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": null,
+        "presents": null,
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-17",
+        "title": "Escuela (NY) + Drug Head",
+        "description": "with TBA",
+        "external_url": null,
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32545,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Hyborian",
+            "Godmaker",
+            "Billy King and the Bad, Bad, Bad"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1497385384/oikdgm7civvlo0e96j4r.jpg",
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-18",
+        "title": "Greenbeard",
+        "description": "doors 8pm\nBilly King and the Bad, Bad, Bad 8:30-9pm\nGodmaker 9:15-9:45pm\nHyborian 10-10:30pm\nGreenbeard 10:45-11:15pm\n$8 over 21, $10 under 21\nall ages welcome\n\nFacebook event page:\nhttps://www.facebook.com/events/451771618505499/",
+        "external_url": null,
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 34832,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Madmartigan",
+            "Paperback",
+            "Camp Life"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498781699/w7lgqirvjek0wjecwnwq.jpg",
+        "presents": "Presented by We're Trying Records and Tiny Table Talks",
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-20",
+        "title": "Summer Slam II",
+        "description": "Doors @ 9:00p \n$8 over 21, $10 under 21\n\ncamp life \\\\ http://camplifetx.bandcamp.com/\nPaperback \\\\ https://paperbacktx.bandcamp.com/ \nMadmartigan \\\\ https://madmartiganatx.bandcamp.com/\n\n-------------------------------------------------------------------\n\nWe're Trying Records and Tiny Table Talks are proud to present our second annual Summer Slam series! Each show of series will take place every Thursday from June 29 to July 20, and feature 12 of the region’s best, up-and-coming bands.\n\nAlong with the city’s best jams, Summer Slam II will provide articles and videos – specifically tailored to each band – with the idea that the community will learn about the ever-evolving local DIY and the great music that comes from it.\n\nSo, come on out and throw down with us!\n\nFACEBOOK EVENT: https://www.facebook.com/events/141487729734017",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 34453,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Three Bad Jacks",
+            "Myles and the Longshots",
+            "Jolie and the Jackalopes"
+        ],
+        "poster": null,
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-20",
+        "title": "Three Bad Jacks",
+        "description": "doors 9pm\n\nJolie and the Jackalopes 9:45-10:15pm\nMyles and the Longshots 10:30-11pm\nThree Bad Jacks 11:15-11:45pm\n\n$10 all ages",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 33940,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Caveman Cult",
+            "Lethal Seige"
+        ],
+        "poster": null,
+        "presents": "EARLY SHOW",
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-22",
+        "title": "Expander",
+        "description": "with Caveman Cult and Lethal Seige\n\n---\nEarly show, doors 6pm\n\nLethal Seige 6:30-7pm\nCaveman Cult 7:15-7:45pm\nExpander 8-8:30pm\n\n$7 over 21, $10 under 21\nall ages welcome",
+        "external_url": null,
+        "doors_at": "18:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 29131,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1487787034/sqsaetoug0muqrzcq4k4.jpg",
+        "presents": "Margin Walker presents",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-22",
+        "title": "The Cave Singers",
+        "description": "Given the rising popularity of meditative, folky indie acts in the early 2000s, forming a twangy, rootsy folk trio was probably the least surprising move Derek Fudesco could have made. The former bassist and founding member of the successful indie rock group Pretty Girls Make Graves picked up an acoustic guitar and formed the Cave Singers following PGMG’s demise in January 2007, teaming up with vocalist Pete Quirk and drummer Marty Lund.\nThe Cave Singers released two albums on both Matador and Jagjaguwar Records. Following these releases, The Cave Singers began work on their fifth album. Rather than working with a record company, they opted to coordinate the project themselves and financed the recording through a crowdfunding campaign. The campaign raised 116 percent of the group’s goal, and the album, Banshee, was released in February 2016.",
+        "external_url": "https://www.eventbrite.com/e/the-cave-singers-tickets-32274701501",
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32558,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1497385523/qh7osxesmibh74joceh8.jpg",
+        "presents": "Album release show for",
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-22",
+        "title": "Lexi Cardenas",
+        "description": "doors 9pm\n\nBeta 10-10:30pm\nEle 10:45-11:15pm\nBorn Again Virgins 11:30-12am - \nLexi and the Bleached Roses 12:15-1am\n\nFACBEOOK EVENT: https://www.facebook.com/events/806771659486686/",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32777,
+        "max_price": 1000,
+        "min_price": 1000,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1495952326/fvr2jqojbgobndzjeijj.jpg",
+        "presents": null,
+        "ticket_status": "onsale",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-23",
+        "title": "Sleeptalk + War Stories",
+        "description": "WAR STORIES 10:30-END \nSLEEPTALK 9:45-10:15 \nMOTH WINGS 9:00-9:30 \nQUIET PLEASE  8:15-8:45\nANCHOR NORTH 7:30-8:00\n\nDoors at 7pm\n$10 ADV // $12 DOOR\n\nfacebook event: https://www.facebook.com/events/1924827364418672/",
+        "external_url": null,
+        "doors_at": "19:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 30041,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Vundabar",
+            "Great Grandpa"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1493002549/jzvhim54gdzmt1dlrifl.jpg",
+        "presents": "Margin Walker presents",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-25",
+        "title": "Rozwell Kid",
+        "description": "Fronted by the affable, spectacled Jordan Hudkins, Rozwell Kid write massive, gritty, excitable power-punk songs; they channel Blue Album guitar grandiosity and eternally-hummable melodies conveyed in 'ooo''s, the likes of which would make Rivers Cuomo weak in his problematic knees. But when it came to writing Rozwell Kid’s new album, Precious Art, Jordan Hudkins found himself in the strange place of wondering who and what Rozwell Kid actually was. After more than two years on the road, the band – completed by guitarist Adam Meisterhans, bassist/vocalist Devin Donnelly and drummer Sean Hallock – hadn’t quite hit a dead end, but they needed to regroup, rethink and refind their identity.\nAll of those questions are thankfully answered by the twelve songs that make up Precious Art. It is a quintessential Rozwell Kid album and something entirely new at the same time. It’s teeming with understated nostalgia, but doesn’t get too lost in the past. Rather, it recalibrates the past, revisiting it with the added wisdom that comes with age. It’s quirky in the way that Rozwell Kid songs have always been quirky, but more than any other record the band has made, it sees Hudkins diving deep into the heart of human existence, telling universal truths based on his own personal memories and unexamined experiences.\n\nThis album also marks a new frontier in how the four members were able to write songs; having ample time in the studio allowed the band to be more experimental, and to collaborate in an entirely new way. But it’s remarkability is as much because of Hudkins’ insane ability to balance pathos and humor to turn the slightest, most oddball detail – whether that’s picking his nose, making Batman costumes or liking hummus – into works of, well, precious art. Not, of course, that that title is entirely sincere… \n\n“I think it’s hilarious for a rock’n’roll band to call anything they do Precious Art,” laughs Hudkins. “I think it’s really funny. But at the same time, these songs are my little babies – they’re my little precious art. That sounds so terrible! Maybe don’t put that in the bio!”",
+        "external_url": "https://www.eventbrite.com/e/rozwell-kid-sidewinder-tickets-33981911813",
+        "doors_at": "18:30",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 33852,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "The News Can Wait",
+            "Easy Prey",
+            "Relief"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1497659849/b0x8l2u5t2vg2cvpi6ny.jpg",
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-26",
+        "title": "Drip-fed",
+        "description": "doors 9pm\n\nRelief 9:30-10pm\nEasy Prey 10:15-10:45pm\nThe News Can Wait 11-11:30pm\nDrip-Fed 11:45-12:15am\n\n$7 over 21, $10 under 21\nall ages welcome\n\nFACEBOOK EVENT: https://www.facebook.com/events/122791328306515",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32304,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Fashion Week",
+            "Funeralizer"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1494962086/nsigdarusfra2wdpn9bt.jpg",
+        "presents": "Margin Walker presents",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-28",
+        "title": "Unsane",
+        "description": "New York City's Unsane assisted in pioneering a more aggressive, less studied version of noise rock, one that blended the scum/art industrial sturm und drang of Foetus, the Swans, Einsturzende Neubauten, and Sonic Youth with a decidedly more straightforward hardcore idiom. While developing the blueprint for noise bands to follow, Unsane cut a remarkable swath through underground music, inspiring a devoted, cult-like following around the globe. As a power trio, Unsane relied upon a hammering, power-press rhythm section, a searing Telecaster howl, and distorted vocals that resembled a chainsaw cutting a steel beam.\n\n Chris Spencer (vocals, guitar), Dave Curran (bass, vocals) and Vincent Signorelli (drums) are responsible for well over 2 decades of aural ruination, with no intention of letting up anytime soon. With a new full-length album in the bag, the band will be touring the globe starting summer 2017.",
+        "external_url": "https://www.eventbrite.com/e/unsane-sidewinder-tickets-34671067095",
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 33557,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Super Thief",
+            "Pretty Shitty",
+            "Xetas",
+            "Burnt Skull",
+            "Lung Letters"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498081691/lgocjox3zit2afjzmfd8.jpg",
+        "presents": null,
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-28",
+        "title": "Super Thief",
+        "description": "Going to the Unsane at Sidewinder show? Or maybe you can't but want to see a show like it, even right next to it? Look no further!\nFriday, 28 July on the inside stage of The Sidewinder\n\nSUPER THIEF\ncheck out their new self-released album, STUCK\nhttps://superthief.bandcamp.com/\n\nPretty Shitty\nkeep an eye out for their self-released debut EP\n\nXETAS\npeek their latest album, The Tower, via 12XU\nhttp://xetastheband.tumblr.com/\n\nBURNT SKULL\nsay it again with me: Burnt. Skull.\nhttps://soundcloud.com/burntskull\n\nLung Letters\nlisten to their debut EP out on Super Secret Records\n\n$6 over 21, $8 under 21\nall ages welcome\n\nevent link: https://www.facebook.com/events/824687651017331",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32775,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Televangelist",
+            "Hitting Subset",
+            "Portal Frame",
+            "After Aristotle",
+            "Creux"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498677898/q1irlrt3z3lni2uel0wy.jpg",
+        "presents": "Trash Panda Productions presents",
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-29",
+        "title": "Televangelist",
+        "description": "doors 9pm\n\nCreux 9:30-10pm\nAfter Aristotle 10:15-10:45pm\nPortal Frame 11-11:30pm\nHitting Subset 11:45-12:15am\nTelevangelist 12:30-1am\n\n$8 over 21, $10 under 21\nall ages welcome",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 34006,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1496689882/ijym8umbi84bdpgq2zn4.jpg",
+        "presents": "Sound on Sound presents",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-07-31",
+        "title": "Froggy Fresh",
+        "description": "The Internet tells a legend of a kid named Froggy Fresh who fought a great white\n\nshark and mastered Youtube. These are but a few of his vast accomplishments,\n\nwhich include being endorsed by John Cena and featured on Tosh.0 but also being a\n\ngood best friend and recovering neighborhood kid’s stolen bikes. Formerly known\n\nas Krispy Kreme, a cease and desist rendered a fan-voted name change and the\n\nname &#39;Froggy Fresh&#39; was chosen over &#39;Jelly Bean Jack&#39;. Enduring a naming, branding,\n\nand content change, Money Maker (Re-Loaded) still debuted and peaked at No. 3 on\n\nthe Billboard Comedy Album chart. After 5 years of being shrouded in mystery,\n\nFroggy Fresh has decided to transition to being a comedic actor and move to LA, but\n\nnot without teaming up with DJ Justin Aswell to do a live tour first. This summer\n\ncatch the “Baddest of them All” while you can.",
+        "external_url": "https://www.eventbrite.com/e/froggy-fresh-sidewinder-tickets-35145283489",
+        "doors_at": "18:30",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32171,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Breaklights",
+            "Dead Words",
+            "Braceface",
+            "The Fur Coats"
+        ],
+        "poster": null,
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-03",
+        "title": "Dead Words + Braceface",
+        "description": "doors 9pm\n\nBreaklights 9:30-10pm\nBraceface 10:15-10:45pm\nDead Words 11-11:30pm\nThe Fur Coats 11:45-12:15pm\n\ndeal: $7 over 21, $10 under 21\nall ages",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 30758,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Geneva Jacuzzi",
+            "Harriet Brown"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1492628263/zfg2bwmnzk2brdd30pte.jpg",
+        "presents": "Gorilla vs Bear presents",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-04",
+        "title": "Nite Jewel",
+        "description": null,
+        "external_url": "https://www.eventbrite.com/e/nite-jewel-sidewinder-tickets-33865691194",
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 33190,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1496853380/aae20zz1h1jkfbvlgitb.jpg",
+        "presents": "Margin Walker presents",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-05",
+        "title": "The Buttertones",
+        "description": "The Buttertones’ Gravedigging is more a movie waiting to happen than an album—or a soundtrack just waiting to inspire a movie, with scene after scene of action, tension and release set to a sound that takes everything good and true about American music before the Beatles prettied it up (surf, sweet soul, the boss saxophone-overdrive garage of the Northwest wailers like the Sonics) and matches it to punk energy, post-punk precision and the kind of personality that blows the circuit-breakers at a backyard party. (Which actually happened, of course.) They’ve even got casting suggestions if anyone wants to start filming—like Willem DeFoe, Winona Ryder, Lucy Liu, and Tommy Wiseau in as many roles as possible. Says guitarist Dakota Boettcher: “We all love movies so much. When you listen to a soundtrack, it has peaks and it has lows, but it’s a whole journey. That’s what we want to do. We want you to go on a journey.”",
+        "external_url": "https://www.eventbrite.com/e/the-buttertones-sidewinder-tickets-35113467326",
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32172,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Mobina Galore",
+            "Mean Girls",
+            "Dogs and Diamonds"
+        ],
+        "poster": null,
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-08",
+        "title": "Free Kittens and Bread",
+        "description": "doors 9pm\n\nDogs And Diamonds 9:30-10pm\nMean Girls 10:15-10:45pm\nMobina Galore 11-11:30pm\nFree Kittens And Bread 11:45-12:15pm\n\ndeal: $7 over 21, $10 under 21\nall ages",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32831,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Coattails",
+            "The Danner Party",
+            "Gold Leather"
+        ],
+        "poster": null,
+        "presents": null,
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-12",
+        "title": "Transit Method",
+        "description": "8pm doors\n\n9pm - 9:40pm Gold Leather\n10pm - 10:40pm The Danner Party\n11pm - 11:40pm Coattails\n12am - 12:40am Transit Method \n\n$8 cover/$10 minors\nall ages welcome",
+        "external_url": null,
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32555,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Locket",
+            "Caterpillars",
+            "The Cheyenne Line",
+            "Whole and a Half"
+        ],
+        "poster": null,
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-12",
+        "title": "Later Days",
+        "description": "doors 8:30pm\n\nWhole and a Half 9:15-9:45pm\nThe Cheyenne Line 10-10:30pm\nCaterpillars 10:45-11:15pm\nLocket 11:30-12am\nLater Days 12:15-12:45am\n\nhard curfew 1am\n\n$8 over 21, $10 under 21\nall ages",
+        "external_url": null,
+        "doors_at": "20:30",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 31821,
+        "max_price": 1000,
+        "min_price": 1000,
+        "performing": [
+            "Dasher",
+            "Rad Payoff"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1492744851/m8p9qdk7ygfdxmvtx0cr.jpg",
+        "presents": null,
+        "ticket_status": "onsale",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-15",
+        "title": "Meat Wave",
+        "description": "with\nDasher\nRad Payoff\n\n\nWEBSITE: http://meatwavechicago.tumblr.com/\nFACEBOOK: https://www.facebook.com/MeatWaveChicago\nTWITTER: https://twitter.com/meatwaveband\nYOUTUBE: https://www.youtube.com/channel/UCw2jaoMNOAKv3Q4nDxwzsVQ\n\n--\nIn late 2014, Meat Waves 24-year-old frontman Chris Sutter found himself facing the end of the relationship he had been in since he was 12 years old. \"When youre in something like that for so long, it doesnt shield you from the world, but it softens your reality,\" he explains. \"A long relationship like that gives you confidence.\" He likens the experience of being single for the first time in his adult life to being an Amish kid on Rumspringa. \"I was just going nuts, making all the mistakes that you could make. It made for a really whack, fucked up time-very confused, always unsure-and that led to a bunch of shit,\" Sutter laughs grimly.\nThe Chicago punks had already made their second album Delusion Moon, a hardcore blast that castigated the weak excuses we ply for poor behaviour. That would come out in 2015. In the interim, Sutter started keeping a notebook to try and document the profound mood swings and torrents of anxiety that he was experiencing in the wake of the split, writing stream-of-consciousness poems about his feelings from day to day, city to city. One term kept coming out: The Incessant.\n\"I think that was the best way to describe this feeling-and I think a lot of people can attest to this-of this overwhelming, oncoming emotion,\" says Sutter. \"Feeling overwhelmed by the biggest thing going on in your life and the smallest fucking thing: theyre all oncoming, like dominos. Its a swelling. A pyramid. A crescendo. It stems from living recklessly. And selfishly. And regrettably. During this phase of my life, this feeling would come up a lot-out to dinner with my dad, in the van on tour-and I never used to have this kind of anxiety.\"\nPutting a name on it made Sutter feel a bit better. The Incessant became both the title and guiding light for Meat Waves third album, but not before some wobbles on Sutters part. Whereas Meat Waves previous albums had meted out judgements on the world, now he was writing brutally unvarnished lyrics about himself: about his self-indulgence, arrogance, fear of the future, isolation, and feeling totally at the whim of uncontrollable emotions. On tour for Delusion Moon, he began reflecting on the \"grey cloud\" he felt the material would cast over Meat Waves past and future. \"I got cold feet,\" he says. \"I had never written music that was this personal and confrontational with the self. I expressed to the others that I wanted to scrap the songs and start over, which they respected. I was uncomfortable to share songs with people that reflected on a destructive period in my life.\" But despite Sutters conviction, something in the back of his head told him he would be a fool to abandon the material.\n\"There was this realisation that I felt like the music I had written prior to this was more of a defence mechanism of sorts by not writing about what was going on in my life and not confronting myself, and instead looking outward at other people and what they were doing,\" he says. \"There are artists like Fiona Apple who I love and always look to-she bares herself and her soul and is so honest about her life, whats going on with her emotionally. I realised I could either write something that doesnt mean as much to me or I could write what means absolutely everything to me. I couldnt keep doing the same thing. I had to try and grow as a writer and musician.\"\nAnd thank god he did. The Incessant is a bracing, emotional punk record that confronts taking responsibility for your actions with dark humour and self-deprecation, drawing influence from acts like The Breeders, Hot Snakes, Drive Like Jehu, and, yes, Fiona Apple, as much as Franz Kafkas Metamorphosis, Jeffrey Eugenides Middlesex and the poems of Emily Dickinson and Sutters friend Hannah Gamble. On that literary tip, Sutter majored in journalism, and says his studies applied here more than ever. \"I had this amazing professor whose whole thing was-and its very simple, but it stuck with me-what were doing is trying to uncover the truth, or truths. I applied that exactly to what was going on with me, because I tended to run away from the truth or ignore it.\"\nHe cites the assaultive vocals and terse riffs of opener \"To Be Swayed\" as one of the truest realisations of that impulse. \"My only question going into that song was, why the hell am I so wishy-washy and so controlled by my very changing emotions? Trying to describe your true feelings is really difficult, really exhausting, but I feel like I really nailed what I was experiencing.\" That wave of changing emotions is evident across The Incessant: Sutter is self-lacerating on \"Mask\" (written in a 10-minute blast after seeing Thee Oh Sees live), the choppy \"Bad Man\", and the spiny, drawling \"Leopard Print Jet Ski\", whose ace title came from looking an old friend up on Facebook one day, to find him bragging about having bought precisely such a thing. \"I loved everything about the phrase,\" says Sutter. \"How it looked, the imagery. It stuck with me, and I viewed the leopard print jet ski as a metaphor for liberation and freedom and confidence. The song is this ironic first-person narrative of fucking taking the leopard print jet ski out and getting away from everything, in a very selfish, wrong way. Its a metaphor for how I was living my life, and much like a lot of other songs on the album, running away from my problems.\"\nElsewhere on The Incessant, Sutter exposes his most vulnerable side. Sounding like a less jubilant Japandroids track, \"Tomosaki\" is a nakedly sincere love song to the cat that he lost in the split, written while ugly-crying on the floor of the shared apartment he was about to leave behind. \"Entranced by the mist of life / Does he sense Ive gone awry? / My guy / Let him roam outside / Meditate on his afterlife,\" Sutter roars. \"That was huge for me as a songwriter. Ive never written a song like that. I think thats the power of something that touches you so deeply, like a cat that youre not going to be able to see any more.\" On the Ella Fitzgerald-inspired lament \"Birdland\" and rampaging snippet \"At The Lake\"-propelled by drummer Ryan Wizniaks stark charge-he reflects on a loss of innocence, and ultimately finds serenity.\nBassist Joe Gac produced Meat Waves previous records, but for The Incessant, the three-piece achieved their dream of working with legendary Chicago engineer Steve Albini, tracking and mixing the album in just four days. \"Between his music and the things hes done, bands hes recorded, hes the real deal,\" says Sutter. \"I dont know if Joe would admit this, but the way he works and records, hes like a student of Albini. It felt like the next step for us, and it was a good, quick, raw experience.\" Albinis famed dynamic range is best heard in \"Killing The Incessant\", the records epic, raging crescendo of a closing song. \"Incessant / Tried to see it / Ended eaten / Though now fear couldnt blanket me / No hand / Discriminates the other / Heres to killing / The Incessant / I dont need it / Heres to killing / The Incessant is defeated\", Sutter rails in stark, stabbing fragments. A tumult of noise churns, before giving way to a peaceful fingerpicked acoustic pattern.\n\"Towards the end of writing this album, I began to wonder exactly what The Incessant sounded like,\" says Sutter. \"Like, can I soundtrack that feeling? So thats how the crescendo came about. All that fucking tension. It was about shedding the ego. I think as humans we have more control than maybe we choose to believe sometimes. So this is trying to put it all at ease. Reject the fear and shame and the things that arent relative to my betterment and wellbeing. The acoustic ditty at the end is the sigh of relief. And a moving-forward of sorts.\"\nOf sorts. In July 2016, Sutter was due in Denver to be best man at his fathers wedding. The week prior to departing, he started feeling the same minor stomach pains that had plagued him (and which he had ignored) a year earlier. Upon boarding the plane, the sensation intensified; once he landed in Denver, he couldnt sleep from vomiting and shitting all night long. His new girlfriend suggested that it might be his appendix, so they took a trip to the emergency room. After a CT scan, the doctor confirmed Sutters girlfriends suspicions, and said they had to remove the appendix-which was two to three times larger than it should have been-immediately.\n\"I woke up unable to walk, or move,\" says Sutter. \"It was the most physically traumatic experience of my life. I spent five days in the hospital-basically our entire vacation-and missed the wedding. The doctor told us that it was in the top five worst appendectomies shed ever seen, and that I could have died if Id waited any longer. I guess Id had a ruptured appendix for about an entire year, and it had ruptured again this past summer.\"\nRecovery took months, though he played shows against his better judgement. Sutters final face-off with The Incessant, that long, dark year of staring his darkest parts in the face, gave him a lot more empathy for the people he used to slam in songs in the past. \"In general, writing about what I was going through made me more of a compassionate kind of person,\" he says. \"I think theres a lot more to uncover within the self than to look outward at whats going on and annoying you around you.\" Another grim laugh. \"I wouldnt want to write a song bashing anyone, besides myself.\"",
+        "external_url": null,
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 34313,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": null,
+        "presents": null,
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-17",
+        "title": "Ghostlight Concerts",
+        "description": "doors 6pm\nmusic start 7pm\n6 bands\n\nall ages welcome",
+        "external_url": null,
+        "doors_at": "18:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 34424,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Shivery Shakes",
+            "Teenage Sexx",
+            "Basketball Shorts",
+            "Talkies"
+        ],
+        "poster": null,
+        "presents": "Teenage Sexx EP release tour",
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-17",
+        "title": "Shivery Shakes",
+        "description": "doors 9pm\nTalkies 9:30-10pm\nBasketball Shorts 10:15-10:45pm\nTeenage Sexx 11-11:30pm\nShivery Shakes 11:45-12:30am\n$8 over 21, $10 under 21\nall ages welcome",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 34029,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Little Image",
+            "Odd Folks"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498680681/abv5vcfnlw3hhtd80km5.png",
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-18",
+        "title": "Ladyfang",
+        "description": "doors 9pm\n\nOld Folks 10-10:45pm\nLittle Image 11-11:45pm\nLadyfang 12-1am\n\n$7 over 21, $10 under 21\nall ages welcome",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 31909,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Camp Life",
+            "Dog Party",
+            "Sneeze Attack",
+            "Glyde"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1493869758/ney6q8s6e8cyjjx3yz1m.jpg",
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-19",
+        "title": "Dog Party",
+        "description": "with Sneeze Attack and Glyde\n\ndoors 9pm\n$8 over 21, $10 under 21\nall ages welcome\n---\nhttps://dogparty.bandcamp.com/album/til-youre-mine \nhttps://www.facebook.com/dogpartylive/\n\nDog Party has played and/or toured with: \nGreen Day, Best Coast, Angel Olsen, The Black Lips, Cherry Glazer, TV Girl, Death Valley Girls, The Regrettes, SWMRS, Shannon and the Clams, The Babies, Vivian Girls, +more",
+        "external_url": null,
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 34477,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Tres Oui",
+            "William Matheny",
+            "Jana Horn",
+            "Lo Country"
+        ],
+        "poster": null,
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-20",
+        "title": "Tres Oui + William Matheny (Misra Records)",
+        "description": "Doors 6:30pm\n\nLo Country 7:00-7:30\nJana Horn 7:45-8:15\nWilliam Matheny 8:30-9:10\nTres Oui 9:25-10:00\n\n$7 over 21, $10 under 21\nall ages welcome",
+        "external_url": null,
+        "doors_at": "18:30",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 31916,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Thompson Springs",
+            "Coattails"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1495525573/viehvvrqfk0lgtocubda.jpg",
+        "presents": null,
+        "ticket_status": "atthedoor",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-24",
+        "title": "MAXAM",
+        "description": "doors 9pm\n\nCoattails 9:45-10:15pm\nThompson Springs 10:30-11pm\nMaxam 11:15-12AM\n\n$8 over 21, $10 under 21\nall ages welcome\n\nFACEBOOK EVENT: https://www.facebook.com/events/265405137259160/",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 34816,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": null,
+        "presents": null,
+        "ticket_status": "online",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-08-29",
+        "title": "Time + Scenery",
+        "description": "doors 8pm\nTime (from Florida, Ex Prince Rama)\nScorpio\nScenery\nSilent Land Time Machine\n$7 over 21, $10 under 21\nall ages welcome",
+        "external_url": null,
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 31767,
+        "max_price": 1000,
+        "min_price": 1000,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1494564912/txsy77mn6uv1plo2nr4k.jpg",
+        "presents": null,
+        "ticket_status": "onsale",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-09-08",
+        "title": "Zander Schloss",
+        "description": "http://www.zanderschloss.com/\n\nZander Schloss is a battle weary musician who has been writing and performing music for over 30 years. He has worked with the Circle Jerks, Weirdos, Sean & Zander, and the legendary Joe Strummer, to name a few.\n\nAfter many years in a collaborative role, he is now presenting his long cultivated solo works to the public. Zander possesses a lyrical baritone that is tempered with a heart on sleeve sincerity and a life rich in experience.\n\nSchloss' songs are wistful with just a touch of the sneering punk veteran peeking through. His timeless approach to song-craft showcases his unwavering commitment to musics transcendent power.",
+        "external_url": null,
+        "doors_at": "21:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32044,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1494445007/zykzihmogljrlz4z9aj3.jpg",
+        "presents": "Margin Walker presents",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-09-15",
+        "title": "Ben Ottewell (of Gomez)",
+        "description": "\"It was going to be called Bones That Catch The Light,\" says Ben Ottewell of his third solo album, \"but when I mentioned that to friends they either sniggered like Beavis and Butthead or thought it was too wordy.\"\n\nIn the end this Chesterfield-born, Derbyshire-raised singer-songwriter opted for A Man Apart, a title with a pleasing ambiguity. \"It could refer to my solo career away from Gomez, or to the crazy populist politics demagogues and thugs that seem to rule our world right now,\" he explains. \"Or it could simply refer to a broken man; someone who has fallen apart.\"\n\nGiven that Ben turned 40 last summer, and given that next year marks the 20th Anniversary of his former band Gomez's Mercury Music Prize-winning debut Bring It On, it was perhaps inevitable that his latest record was preceded by a fair amount of stock-taking and personal reflection.",
+        "external_url": "https://www.eventbrite.com/e/ben-ottewell-sidewinder-tickets-34521086499",
+        "doors_at": "20:30",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 33239,
+        "max_price": null,
+        "min_price": null,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498771259/vm4kz9r8ibpoljcridpm.jpg",
+        "presents": "Margin Walker presents",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-09-21",
+        "title": "Alex Cameron",
+        "description": null,
+        "external_url": "https://www.eventbrite.com/e/alex-cameron-sidewinder-tickets-35799461152",
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 31892,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "Stef Chura"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498068964/dxsriuezysj71j1kkpdy.jpg",
+        "presents": "Margin Walker presents",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-09-27",
+        "title": "Jay Som",
+        "description": "On her first proper album as Jay Som, Melina Duterte, 22, solidifies her rep as a self-made force of sonic splendor and emotional might. If last year's aptly named Turn Into compilation showcased a fuzz-loving artist in flux—chronicling her mission to master bedroom recording—then the rising Oakland star's latest, Everybody Works, is the LP equivalent of mission accomplished. \n\nDuterte is as DIY as ever—writing, recording, playing, and producing every sound beyond a few backing vocals—but she takes us places we never could have imagined, wedding lo-fi rock to hi-fi home orchestration, and weaving evocative autobiographical poetry into energetic punk, electrified folk, and dreamy alt-funk. \n\nWhile there's no obvious politics here, Duterte says witnessing the challenges facing women, people of color, and the queer community lit a fire. And when you reach the end of Everybody Works, \"For Light,\" you'll find a mantra suitable for anyone trying, as Duterte says, \"to find your peace even it it's not perfect.\" As her trusty trumpet blows, she sings: \"I'll be right on time, open blinds for light, won't forget to climb.\"",
+        "external_url": "https://www.eventbrite.com/e/jay-som-sidewinder-tickets-34075038357",
+        "doors_at": "18:30",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 34568,
+        "max_price": null,
+        "min_price": null,
+        "performing": [
+            "J Fernandez"
+        ],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498071639/uqgbcw0jsbhbeqrlo7ro.jpg",
+        "presents": "Margin Walker presents",
+        "ticket_status": "external_url",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-10-09",
+        "title": "Matt Pond PA",
+        "description": null,
+        "external_url": "https://www.eventbrite.com/e/matt-pond-pa-sidewinder-tickets-35517876926",
+        "doors_at": "20:00",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    },
+    {
+        "ends_at": null,
+        "id": 32262,
+        "max_price": 1400,
+        "min_price": 1400,
+        "performing": [],
+        "poster": "http://res.cloudinary.com/hjbfjdt7p/image/upload/v1498251125/c62xssuwaixewojzs96u.jpg",
+        "presents": "The Sidewinder Presents",
+        "ticket_status": "onsale",
+        "restrictions": "ALL AGES",
+        "starts_at": "2017-10-28",
+        "title": "CAAMP",
+        "description": "Evan plays the banjo, Taylor plays the guitar and together they slam stages as the power duo, Caamp. The childhood friends have been writing songs since 2012 and began performing as Caamp in 2015. In March of 2016, the duo released their self-titled, debut record that has since put them on the map. Caamp is known for their heartfelt sound, and authentic live shows that leave their loyal crowds with hearts pounding. Taylor and Evan are two good gentlemen, writing good music, and plan on ... Caamping tilʼ they croak!",
+        "external_url": null,
+        "doors_at": "20:30",
+        "venue_city": "Austin",
+        "venue_name": "Sidewinder"
+    }
+]
