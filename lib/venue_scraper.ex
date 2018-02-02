@@ -1,5 +1,5 @@
 import Tirexs.HTTP
-import UUID
+# import UUID
 
 defmodule VenueScraper do
   @moduledoc """
@@ -18,7 +18,7 @@ defmodule VenueScraper do
 
   # Sidewinder   - queueapp
   # Barracuda    - queueapp
-  # Grizzly Hall - HTML parsing
+  # CATIL        - HTML parsing
   # Dirty Dog    - Facebook (???)
 
   # Normalized record should include:
@@ -28,13 +28,19 @@ defmodule VenueScraper do
   # - doors_at
   # - starts_at
   # - bands       - array of artists if supplied
+  # - venue
+  #
+  # TODO: research on this?
+  # if need be, a primary key can be timestamp-venue_name
 
   @lastfm_url "https://ws.audioscrobbler.com/2.0/"
   @lastfm_api_key Application.get_env(:venue_scraper, :lastfm_api_key)
 
-  @index "/music"
-  @index_path @index <> "/events"
+  # Elasticsearch index
+  @music "/music"
+  @events @music <> "/events"
 
+  # Fetch bands for a given last.fm user
   def get_bands_for(user \\ "SP420") do
     url = @lastfm_url <> "?method=user.gettopartists&user=#{user}&api_key=#{@lastfm_api_key}&format=json&period=overall&limit=500"
     fetch_bands(url, 1)
@@ -99,13 +105,15 @@ defmodule VenueScraper do
         title: title,
         description: description,
         starts_at: starts_at,
-        doors_at: starts_at
+        doors_at: starts_at,
+        venue: "Come and Take It Live"
       }
     end)
   end
 
   # Covers Sidewinder and Barracuda
-  def queueapp_json_for(url \\ "https://sidewinder.queueapp.com/feeds/events.json") do
+  # TODO: pass in venue name
+  def queueapp_json_for(url \\ "https://sidewinder.queueapp.com/feeds/events.json", venue_name \\ "Sidewinder") do
     keys = ~W[title presents description id starts_at doors_at performing]
 
     File.read!("./lib/20170409_sidewinder.json")
@@ -122,7 +130,8 @@ defmodule VenueScraper do
         title: Map.get(json, "title"),
         description: Map.get(json, "description"),
         bands: Map.get(json, "performing"),
-        doors_at: doors_at
+        doors_at: doors_at,
+        venue: venue_name
       }
     end)
   end
@@ -132,14 +141,20 @@ defmodule VenueScraper do
     MapSet.size(intersection) > 0
   end
 
-  def index_events do
+  # Takes an array and indexes them into ES
+  def index_events(events) do
+    Enum.each(events, fn(event) ->
+      put!(@events <> "/" <> UUID.uuid4, event)
+    end)
+  end
 
-    sidewinder
-    #|> put(path <> )
+  # TODO: search across all fields
+  def full_text_search(query) do
+
   end
 
   def empty_index do
-    Tirexs.HTTP.delete(@index)
+    Tirexs.HTTP.delete(@music)
   end
 
 end
