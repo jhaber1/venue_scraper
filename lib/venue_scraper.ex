@@ -19,6 +19,7 @@ defmodule VenueScraper do
   # Sidewinder   - queueapp
   # Barracuda    - queueapp
   # CATIL        - HTML parsing
+  # Mohawk       - HTML parsing
   # Dirty Dog    - Facebook (???)
 
   # Normalized record should include:
@@ -65,19 +66,8 @@ defmodule VenueScraper do
     end
   end
 
-  # def sidewinder do
-  #   # TODO
-  #   # url = "https://sidewinder.queueapp.com/feeds/events.json"
-  #   # HTTPoison.get!(url).body
-
-  #   File.read!("./lib/20170409_sidewinder.json")
-  #   |> Poison.decode!
-  #   #|> Enum.map(&(Map.take(&1, keys)))
-  # end
-
    # Come and Take It Live
   def catil do
-
     # url = "https://www.ticketfly.com/venue/22421-come-and-take-it-live/"
     # HTTPoison.get!(url).body
     File.read!("./lib/20170514_catil.html")
@@ -98,7 +88,7 @@ defmodule VenueScraper do
       description = Floki.find(li, "div:nth-child(2) p.description") |> Floki.text
 
       # The timezone offset can be like 3 different ones so it's crap, but the actual hours/minute/seconds seem to be
-      # consistently in the correct timezone of the parser, so we strip out the timezone offset
+      # consistently in the correct timezone of the parser, so we discard the timezone offset
       starts_at_raw = Floki.find(li, "div.event-date span")
         |> Floki.attribute("title")
         |> Enum.at(0)
@@ -121,28 +111,95 @@ defmodule VenueScraper do
     end)
   end
 
+  def mohawk do
+    # url = "https://mohawkaustin.com/events"
+    # HTTPoison.get!(url, [], [recv_timeout: 15000]).body
+    File.read!("./lib/20180218_mohawk.html")
+      |> Floki.find("section.calendar div.event-large")
+      |> Enum.map(fn(div) ->
+        # e.g. "Sun Feb 18"
+        raw_date = Floki.find(div, ".event-bar h4") |> List.first |> elem(2) |> List.first
+
+        # e.g. "6:30PM"
+        raw_time = Floki.find(div, ".event-bar h6")
+          |> List.first
+          |> elem(2)
+          |> List.first
+          |> (&Regex.run(~R/\d{1,2}:\d{2} (AM|PM)/, &1)).()
+          |> List.first
+          |> (&Regex.replace(~R/\s/, &1, "")).()
+
+        # TODO: figure out what to do when grabbing dates from the following year
+        # converts e.g. "Sun Feb 1 6:30PM America/Chicago 2018" to e.g. "2018-02-02T00:30:00Z"
+        doors_at = Timex.parse("#{raw_date} #{raw_time} #{Timex.Timezone.Local.lookup} #{Timex.today.year}", "%a %b %e %l:%M%p %Z %Y", :strftime)
+          |> elem(1)
+          |> Timex.format("{ISO:Extended:Z}")
+          |> elem(1)
+
+        IO.inspect(doors_at)
+        billing_div = Floki.find(div, ".billing")
+
+        # presents may/may not be there
+        presents = Floki.find(billing_div, "h6")
+          |> List.first
+          |> (fn
+            presents when is_nil(presents) -> nil
+            presents when is_tuple(presents) -> elem(presents, 2) |> List.first
+          end).()
+
+        title = Floki.find(billing_div, "h1")
+          |> List.first
+          |> elem(2)
+          |> List.first
+
+        # Bands may/may not be there
+        bands = Floki.find(billing_div, "h5")
+          |> List.first
+          |> (fn
+            bands when is_nil(bands) -> nil
+            bands when is_tuple(bands) -> elem(bands, 2) |> Enum.filter(fn(band) -> is_bitstring(band) && band != "More" end)
+          end).()
+
+          %{
+            presents: presents,
+            title: title,
+            bands: bands,
+            doors_at: doors_at,
+            venue_name: "Mohawk"
+          }
+      end)
+  end
+
+  # def test do
+  #   doors_at = Timex.parse("Thu Mar 1 7:00PM #{Timex.Timezone.Local.lookup} #{Timex.today.year}", "%a %b %e %l:%M%p %Z %Y", :strftime)
+  #         # |> elem(1)
+  #         # |> Timex.format("{ISO:Extended:Z}")
+  #         # |> elem(1)
+  #   IO.inspect(doors_at)
+  # end
+
   # Covers Sidewinder and Barracuda
   def queueapp_json_for(url \\ "https://sidewinder.queueapp.com/feeds/events.json", venue_name \\ "Sidewinder") do
     keys = ~W[title presents description id starts_at doors_at performing]
 
-    File.read!("./lib/20170409_sidewinder.json")
-    # HTTPoison.get!(url).body
-    |> Poison.decode!
-    |> Enum.map(fn(json) ->
-      # converts e.g. "2017-07-04 18:00 America/Chicago" into an ISO8601 string "2017-07-04T23:00:00Z"
-      doors_at = Timex.parse("#{Map.get(json, "starts_at")} #{Map.get(json, "doors_at")} #{Timex.Timezone.Local.lookup}", "{YYYY}-{0M}-{0D} {h24}:{m} {Zname}")
-        |> elem(1)
-        |> Timex.format("{ISO:Extended:Z}")
-        |> elem(1)
+    #File.read!("./lib/20170409_sidewinder.json")
+    HTTPoison.get!(url).body
+      |> Poison.decode!
+      |> Enum.map(fn(json) ->
+        # converts e.g. "2017-07-04 18:00 America/Chicago" into an ISO8601 string "2017-07-04T23:00:00Z"
+        doors_at = Timex.parse("#{Map.get(json, "starts_at")} #{Map.get(json, "doors_at")} #{Timex.Timezone.Local.lookup}", "{YYYY}-{0M}-{0D} {h24}:{m} {Zname}")
+          |> elem(1)
+          |> Timex.format("{ISO:Extended:Z}")
+          |> elem(1)
 
-      %{
-        presents: Map.get(json, "presents"),
-        title: Map.get(json, "title"),
-        description: Map.get(json, "description"),
-        bands: Map.get(json, "performing"),
-        doors_at: doors_at,
-        venue: venue_name
-      }
+        %{
+          presents: Map.get(json, "presents"),
+          title: Map.get(json, "title"),
+          description: Map.get(json, "description"),
+          bands: Map.get(json, "performing"),
+          doors_at: doors_at,
+          venue: venue_name
+        }
     end)
   end
 
